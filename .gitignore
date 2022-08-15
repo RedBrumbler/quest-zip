@@ -2,6 +2,7 @@
 *.so
 obj/
 libs/
+build/
 ndkpath.txt
 *.zip
 
@@ -12,3 +13,6 @@ extern/
 
 # Logs
 *.log
+
+extern.cmake
+qpm_defines.cmake
