@@ -7,8 +7,10 @@
     "version": "1.7.4",
     "url": "https://github.com/RedBrumbler/quest-zip",
     "additionalData": {
+      "soLink": "https://github.com/RedBrumbler/quest-zip/releases/download/v1.7.4/libzip.so.so",
+      "debugSoLink": "https://github.com/RedBrumbler/quest-zip/releases/download/v1.7.4/debug_libzip.so",
       "overrideSoName": "libzip.so",
-      "branchName": "main"
+      "branchName": "version-v1.7.4"
     }
   },
   "dependencies": [],
